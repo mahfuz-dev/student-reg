@@ -1,0 +1,9 @@
+.students-container{
+    display: flex;
+}
+.user-container{
+    width: 70%;
+    margin-right: 20px;
+    margin-left: 5px;
+    border-right: 1px solid lightgray;
+}
